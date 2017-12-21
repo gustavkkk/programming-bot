@@ -10,6 +10,5 @@
  
  ### Code
 
-# On the same boat
-
+# Sister Projects
   ### [pix2code](https://github.com/tonybeltramelli/pix2code)
